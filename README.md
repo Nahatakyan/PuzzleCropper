@@ -1,6 +1,9 @@
 # PuzzleCropper
 Puzzle cropper framework for iOS
 
+
+<p align="center"><img src="https://i.imgur.com/7NNNfPe.jpg" width="460" height="361"/></p>
+
 # Usage
 
 ```
