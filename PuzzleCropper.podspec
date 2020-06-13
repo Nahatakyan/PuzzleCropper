@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
  
   spec.name         = "PuzzleCropper"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "Puzzle cropper framework writted in Swift"
 
   spec.homepage     = "https://github.com/Nahatakyan/PuzzleCropper"
