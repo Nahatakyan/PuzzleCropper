@@ -56,23 +56,15 @@
 		C21984972495361B00365ECE /* PuzzleCropper */ = {
 			isa = PBXGroup;
 			children = (
-				C21984B324953A9100365ECE /* Extensions */,
 				C21984982495361B00365ECE /* PuzzleCropper.h */,
 				C21984A02495362E00365ECE /* PuzzleCropper.swift */,
-				C21984992495361B00365ECE /* Info.plist */,
-			);
-			path = PuzzleCropper;
-			sourceTree = "<group>";
-		};
-		C21984B324953A9100365ECE /* Extensions */ = {
-			isa = PBXGroup;
-			children = (
 				C21984A42495362E00365ECE /* CGFloat extension.swift */,
 				C21984A32495362E00365ECE /* CGPoint extension.swift */,
 				C21984A12495362E00365ECE /* UIBezierPath extension.swift */,
 				C21984A22495362E00365ECE /* UIImage extension.swift */,
+				C21984992495361B00365ECE /* Info.plist */,
 			);
-			path = Extensions;
+			path = PuzzleCropper;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
