@@ -8,7 +8,7 @@ Puzzle cropper framework for iOS
 
 ```
 let cropper = PuzzleCropper()
-cropper.numberOfLines = lineCount
+cropper.numberOfLines = 5
 cropper.puzzleLineWidth = 1
 cropper.cropImage(image, thread: DispatchQueue.global()) { (puzzles) in
     // Here your puzzles
